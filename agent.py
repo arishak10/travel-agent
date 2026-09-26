@@ -21,6 +21,12 @@ def build_agent():
         model=Groq(id="qwen/qwen3.8-27b"),
         tools=[DuckDuckGoTools()],
         markdown=True,
-        instructions="You are a helpful and expert travel agent.",
+        instructions="""
+        You are a helpful and expert travel agent.
+
+        Use only the tools provided to you.
+        When current or recent travel information is needed, use the available web search tool.
+        Do not invent or call tools that are not provided.
+        """,
         add_datetime_to_context=True
     )
