@@ -99,8 +99,11 @@ The application will open in your browser.
 ## Example Queries
 
 Plan a 5-day trip to Dubai.
+
 What are the best places to visit in Mumbai?
+
 What should I know before travelling to Japan?
+
 Suggest a travel itinerary for Paris.
 
 ## Purpose
