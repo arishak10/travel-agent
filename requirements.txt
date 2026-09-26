@@ -1,0 +1,14 @@
+agno
+groq
+python-dotenv
+duckduckgo-search
+agno
+groq
+python-dotenv
+duckduckgo-search
+streamlit
+agno
+groq
+python-dotenv
+ddgs
+streamlit
